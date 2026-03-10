@@ -1,0 +1,3 @@
+kaggle
+polars
+python-dotenv
